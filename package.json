@@ -11,7 +11,7 @@
   "version": "0.4.2",
   "license": "MIT",
   "dependencies": {
-    "async.util.range": "0.4.2"
+    "async.util.range": "0.4.3"
   },
   "keywords": [
     "async.util",
